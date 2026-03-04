@@ -1,3 +1,3 @@
 ## Mineset By J
 
-### Live URL : https://mineset-nine.vercel.app/
+[Website Live Here](https://rajchowdhury240.github.io/Mineset/)
